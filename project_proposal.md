@@ -26,5 +26,10 @@
  We believe that covering the crisis period will help us uncover questions about the volatility during turbulent times as well as normal time. With its crucial role in asset pricing, portfolio allocation, and risk management, volatility forecasting has therefore attracted a large amount of attention
  
 ## Reasons Why We Will Achieve the Goal
-On the one hand, the structure of financial markets is complex, highly nonlinear and has a low signal-to-noise ratio, which makes it nearly impossible to predict short-term asset returns (see, e.g., Gu, Kelly, and Xiu, 2020; Chen, Pelger, and Zhu, 2019). On the other hand, various stylized facts (e.g., the slow decay of autocorrelation in absolute returns), implies that volatility is to a large extent predictable. With its crucial role in asset pricing, portfolio allocation, and risk management, volatility forecasting has therefore attracted a large amount of attention
+On the one hand, the structure of financial markets is complex, highly nonlinear and has a low signal-to-noise ratio, which makes it nearly impossible to predict short-term asset returns (see, e.g., Gu, Kelly, and Xiu, 2020; Chen, Pelger, and Zhu, 2019). On the other hand, various stylized facts (e.g., the slow decay of autocorrelation in absolute returns), implies that volatility is to a large extent predictable. With its crucial role in asset pricing, portfolio allocation, and risk management, volatility forecasting has therefore attracted a large amount of attention.
+
+Why Machine Learning
+- Traditional models, often relying on linear regression, break down when the explanatory variables are strongly correlated, exhibit low signal-to-noise ratio, or if the underlying structure is highly nonlinear. ML can deal with highly nonlinear structured data that often appear in financial markets.
+- It can extract valuable information from a large amount of data by increasing feature space; linear regression models often fail to do so. 
+- It is significantly resistant to a substantial amount of noise added to the original data set to obfuscate the signal, in contrast to the linear regression.
 
