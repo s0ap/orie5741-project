@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore large datasets
+datasets/1_min_SPY_2008-2021.csv
