@@ -23,7 +23,7 @@
     - We can also look into S&P ex dividend dates
 
 ## Importance of the Question
- We believe that covering the crisis period will help us uncover questions about the volatility during turbulent times as well as normal time. With its crucial role in asset pricing, portfolio allocation, and risk management, volatility forecasting has therefore attracted a large amount of attention
+ We believe that covering the crisis period will help us uncover questions about the volatility during turbulent times as well as normal time. With its crucial role in asset pricing, portfolio allocation, and risk management, volatility forecasting has therefore attracted a large amount of attention. Especially during the recent times when volatility products created a havoc in the stock market in March 2020, it makes sense to forecast the volatitlity so that we are able to pick up signals in future and be able to avoid such a havoc.
  
 ## Reasons Why We Will Achieve the Goal
 On the one hand, the structure of financial markets is complex, highly nonlinear and has a low signal-to-noise ratio, which makes it nearly impossible to predict short-term asset returns (see, e.g., Gu, Kelly, and Xiu, 2020; Chen, Pelger, and Zhu, 2019). On the other hand, various stylized facts (e.g., the slow decay of autocorrelation in absolute returns), implies that volatility is to a large extent predictable. With its crucial role in asset pricing, portfolio allocation, and risk management, volatility forecasting has therefore attracted a large amount of attention.
