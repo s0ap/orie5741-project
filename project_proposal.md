@@ -7,7 +7,7 @@ Financial markets have very complex structures that are highly nonlinear with a 
 ## Why is this important?
  We believe that covering the crisis period will help us uncover questions about the volatility during turbulent times as well as normal time. With its crucial role in asset pricing, portfolio allocation, and risk management, volatility forecasting has therefore attracted a large amount of attention. Especially during the recent times when volatility products created a havoc in the stock market in March 2020, it makes sense to forecast the volatitlity so that we are able to pick up signals in future and be able to avoid such a havoc.
 
-## How Machine Learning will help?
+## How will Machine Learning help?
 Conventional linear regression models fail to predict accurately when the input variables are strongly correlated or have a low signal-to-noise ratio, or the underlying structure is highly nonlinear. Machine Learning can deal with highly nonlinear structured data that often appear in volatility in financial markets. They can also extract valuable information from a large amount of data by looking at a broad feature space; linear regression models often fail to do so. Additionally, they are significantly resistant to a substantial amount of noise added to distort the original dataset, in contrast to the linear regression. So, we believe Machine Learning models would give some meaningful insights on volatility predictions.
 
 ## What data are we using?
